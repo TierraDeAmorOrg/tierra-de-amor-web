@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Espacio seguro">
+  <rect width="900" height="675" fill="#FFF9F3"/>
+  <circle cx="720" cy="155" r="170" fill="#F59E0B" opacity=".18"/>
+  <circle cx="180" cy="555" r="210" fill="#EC4899" opacity=".12"/>
+  <path d="M225 370L450 185l225 185v180H225V370z" fill="#fff" stroke="#E7D8F6" stroke-width="8"/>
+  <path d="M190 375l260-215 260 215" fill="none" stroke="#7C3AED" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="405" y="405" width="90" height="145" rx="18" fill="#F9A8D4"/>
+  <circle cx="450" cy="315" r="55" fill="#FDE68A"/>
+  <path d="M420 315l22 22 43-54" fill="none" stroke="#7C3AED" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="450" y="610" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#241B2F">Espacio seguro</text>
+</svg>

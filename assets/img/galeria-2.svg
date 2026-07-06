@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Pañales e higiene">
+  <rect width="900" height="675" fill="#F8F0FF"/>
+  <circle cx="150" cy="120" r="150" fill="#EC4899" opacity=".14"/>
+  <circle cx="760" cy="560" r="180" fill="#7C3AED" opacity=".16"/>
+  <rect x="270" y="160" width="360" height="360" rx="70" fill="#fff" stroke="#E7D8F6" stroke-width="6"/>
+  <path d="M320 310c45-70 215-70 260 0v115c0 44-37 78-82 78h-96c-45 0-82-34-82-78V310z" fill="#C4B5FD"/>
+  <path d="M365 330c36 35 134 35 170 0" fill="none" stroke="#7C3AED" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="380" cy="235" r="34" fill="#FDE68A"/>
+  <circle cx="520" cy="235" r="34" fill="#FDE68A"/>
+  <text x="450" y="590" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#241B2F">Pañales e higiene</text>
+</svg>

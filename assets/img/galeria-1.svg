@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Donación de alimentos">
+  <rect width="900" height="675" fill="#FFF5E8"/>
+  <circle cx="770" cy="105" r="130" fill="#F59E0B" opacity=".25"/>
+  <circle cx="100" cy="570" r="190" fill="#7C3AED" opacity=".14"/>
+  <rect x="190" y="230" width="520" height="260" rx="34" fill="#fff" stroke="#E7D8F6" stroke-width="6"/>
+  <rect x="245" y="185" width="130" height="210" rx="22" fill="#FDE68A"/>
+  <rect x="390" y="160" width="110" height="235" rx="22" fill="#F9A8D4"/>
+  <rect x="520" y="195" width="135" height="200" rx="22" fill="#C4B5FD"/>
+  <path d="M260 485h380" stroke="#7C3AED" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="570" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#241B2F">Alimentos y víveres</text>
+</svg>

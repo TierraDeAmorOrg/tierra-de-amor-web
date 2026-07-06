@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Poster institucional Tierra de Amor">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.58" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#g)"/>
+  <circle cx="1020" cy="125" r="170" fill="#fff" opacity="0.14"/>
+  <circle cx="170" cy="640" r="230" fill="#fff" opacity="0.12"/>
+  <rect x="165" y="150" width="870" height="450" rx="48" fill="#fff" opacity="0.18"/>
+  <circle cx="600" cy="375" r="82" fill="#fff" opacity="0.9"/>
+  <path d="M579 332v86l74-43-74-43z" fill="#7C3AED"/>
+  <text x="600" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#fff">Video institucional autorizado</text>
+</svg>
